@@ -9,7 +9,6 @@ The design translates the business requirements into a logical data model, ident
 
 ## 📂 Repository Contents
 *   **`Ntwanano Phiona Shabane - WitleShop Database Design.pdf`** – The full database design documentation, including the data dictionary, ERD, design decisions, and normalisation check.
-*   **`schema.sql`** – PostgreSQL script that creates all nine tables with their keys, constraints, a delivery-address trigger and indexes.
 
 ## 🗄️ Database Schema
 The database consists of **nine entities** designed to manage the core business areas:
